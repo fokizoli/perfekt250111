@@ -5,9 +5,10 @@
 # tesztelés és fejelsztő branch szerkesztés 
 # Balázs beírása :)
 # hajrá github
-
+# valami valami
 
 # Éva beírása
+# Éva clone beírás
 
 
 
