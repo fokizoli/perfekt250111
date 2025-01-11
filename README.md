@@ -4,7 +4,7 @@
 # második konfliktus is megoldva
 # tesztelés és fejelsztő branch szerkesztés 
 # Balázs beírása :)
-
+# hajrá github
 
 
 # Éva beírása
