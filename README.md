@@ -11,7 +11,7 @@
 
 
 
-
+# Gora felülírná ezt a sort - konfliktus lett?
 
 
 
