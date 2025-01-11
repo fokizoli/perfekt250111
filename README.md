@@ -6,7 +6,7 @@
 # Balázs beírása :)
 # hajrá github
 # valami valami
-
+# Elemzések segítségével kell innovatívan fejleszteni az intuitív ellátási láncokat.
 # Éva beírása
 # Éva clone beírás
 
