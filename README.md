@@ -5,3 +5,10 @@
 # tesztelés és fejelsztő branch szerkesztés 
 # Balázs beírása :)
 
+
+
+
+
+
+
+# Gora a 14. sorba írt
