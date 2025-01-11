@@ -4,5 +4,6 @@
 # második konfliktus is megoldva
 # tesztelés és fejelsztő branch szerkesztés
 # commit01
+# commit02
 
 
