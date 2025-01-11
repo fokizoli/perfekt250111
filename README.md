@@ -12,8 +12,9 @@
 
 
 
-
+# Gora felülírná ezt a sort - konfliktus lett?
 
 
 
 # Gora a 14. sorba írt
+# Balázs hozzáadott egy új képet
