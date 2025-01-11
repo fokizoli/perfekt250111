@@ -3,5 +3,5 @@
 # konfliktus megoldása
 # második konfliktus is megoldva
 # tesztelés és fejelsztő branch szerkesztés
-
+# Balázs beírása
 
