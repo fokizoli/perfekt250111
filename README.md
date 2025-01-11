@@ -2,4 +2,6 @@
 # szerkesztettem a readme-t
 # konfliktus megoldása
 # második konfliktus is megoldva
-# fejlesztő branch szerkesztése
+# tesztelés és fejelsztő branch szerkesztés
+
+
